@@ -1,0 +1,47 @@
+#txtDescription3{
+	color:green;
+}
+
+#div1{
+	width:300px;
+	height: 100px;
+	border: 1px solid red; 
+	
+	float:left;
+	margin-bottom:20px;
+	padding-top:20px;
+	padding-left:20px;
+	font-size:18px;
+	color:green;
+}
+
+#div2{
+border:1px solid blue;
+height:auto;
+width:500px;
+float:left;
+margin-left:20px;
+}
+
+#txtDescription{
+margin-top:20px;
+margin-left:20px;
+margin-bottom:20px;
+}
+
+.description{
+	margin-top:10px;
+	width:100px;
+	height:50px;
+	background-color:blue;
+	color:yellow !important;
+}
+
+
+.description2{
+	padding:10px;
+	color:green;
+}
+div{
+	background-color:red;
+}
